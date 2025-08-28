@@ -9,8 +9,8 @@
       </h1>
       <p>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">  
-        <strong>Full Stack Web Developer</strong> – I specialize in building scalable, secure, and dynamic web applications from front to back.  
-        I love blending <em>structured logic</em> with <em>creative problem-solving</em> to deliver intuitive, user-focused digital experiences.  
+        <strong>Full Stack Web Developer</strong> – building scalable, secure, and dynamic web applications from front to back.  
+        I love blending <em>structured logic</em> with <em>creative problem-solving</em> to deliver intuitive, user-focused digital experiences. 
       </p>
       <p>
         🏦 <strong>Digital Banking Tech Expert</strong> – With proven hands-on experience in the installation, configuration, and administration of electronic banking solutions,  
